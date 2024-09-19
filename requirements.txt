@@ -1,6 +1,5 @@
 numpy
-streamlit
 matplotlib
 tensorflow
-PIL
+Pillow
 cv2
